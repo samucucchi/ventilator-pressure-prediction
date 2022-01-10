@@ -3,3 +3,7 @@ The ventilator data used in this competition was produced using a modified open-
 
 In this competition, participants are given numerous time series of breaths and will learn to predict the airway pressure in the respiratory circuit during the breath, given the time series of control inputs.
 
+![image](https://user-images.githubusercontent.com/25346803/148786983-b178af2b-8313-4839-9a13-b33d98665cc7.png)
+ 
+Each time series represents an approximately 3-second breath. The files are organized such that each row is a time step in a breath and gives the two control signals, the resulting airway pressure, and relevant attributes of the lung, described below.
+
